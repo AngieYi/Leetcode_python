@@ -3,5 +3,5 @@
 
 * Starts from 12/15/2016
 
-* persist like 2006 
+* Persist like 2006 
 
