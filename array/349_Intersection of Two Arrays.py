@@ -16,10 +16,10 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
-         # 45ms
+         # 45 ms
         return list(set(nums1)&set(nums2))
 
         '''
-        # 52ms
+        # 52 ms
         return list(set(nums1)-(set(nums1)-set(nums2)))
         '''

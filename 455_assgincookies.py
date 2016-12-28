@@ -1,4 +1,5 @@
 '''
+455. Assign Cookies
 Assume you are an awesome parent and want to give your children some cookies.
 But, you should give each child at most one cookie.
 Each child i has a greed factor gi, which is the minimum size of a cookie that the child will be content with;
@@ -17,6 +18,7 @@ Output: 1
 Explanation: You have 3 children and 2 cookies. The greed factors of 3 children are 1, 2, 3.
 And even though you have 2 cookies, since their size is both 1, you could only make the child whose greed factor is 1 content.
 You need to output 1.
+
 Example 2:
 Input: [1,2], [1,2,3]
 
@@ -25,7 +27,7 @@ Explanation: You have 2 children and 3 cookies. The greed factors of 2 children 
 You have 3 cookies and their sizes are big enough to gratify all of the children,
 You need to output 2.
 '''
-# 789ms
+
 class Solution(object):
     def findContentChildren(self, g, s):
         """
@@ -33,13 +35,49 @@ class Solution(object):
         :type s: List[int]
         :rtype: int
         """
+
+
+        # best readable: 92 ms
+        g.sort()
+        s.sort()
+
+        kids_i = 0
+        cookies_i = 0
+
+        while kids_i < len(g) and cookies_i < len(s): # any of them run out of range will exit
+            if g[kids_i] <= s[cookies_i]:
+                kids_i += 1  # if satisfied, kids pointer move forward
+            cookies_i += 1   # cookie pointer always needs to move forward
+        return kids_i
+
+
+        '''
+        # 92 ms
+        g.sort()
+        s.sort()
+        kids_i = 0
+        cookies_i = 0
+
+        for num_s in s:
+            if kids_i == len(g):
+                break
+            if g[kids_i] <= num_s:
+                kids_i += 1
+                cookies_i += 1
+        return cookies_i
+        '''
+
+
+        '''
+        # bad not clear: 1145ms
         count = 0
         g = sorted(g)
         s = sorted(s)
-        for x in g:
-            for y in s:
-                if x <= y:
-                    s.remove(y)
+        for num_g in g:
+            for num_s in s:
+                if num_g <= num_s:
+                    s.remove(num_s)
                     count += 1
                     break
         return count
+        '''
