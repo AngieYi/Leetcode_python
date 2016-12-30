@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60cfeed4-5be9-4ff6-af97-f689531f56bc" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/455_assgincookies.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/461_Hamming Distance.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/463_Island Perimeter.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/All_code.docx" afterPath="$PROJECT_DIR$/All_code.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/string/171_Excel Sheet Column Number.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Leetcode_python.iws" />
@@ -27,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="461_Hamming Distance.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bit/461_Hamming Distance.py">
+      <file leaf-file-name="171_Excel Sheet Column Number.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/string/171_Excel Sheet Column Number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31862217">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.7212056">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -75,6 +72,7 @@
         <option value="$PROJECT_DIR$/453_Min Moves to Equal Array Elements.py" />
         <option value="$PROJECT_DIR$/455_assgincookies.py" />
         <option value="$PROJECT_DIR$/461_Hamming Distance.py" />
+        <option value="$PROJECT_DIR$/string/171_Excel Sheet Column Number.py" />
       </list>
     </option>
   </component>
@@ -501,6 +499,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.31862217">
           <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string/171_Excel Sheet Column Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7212056">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
