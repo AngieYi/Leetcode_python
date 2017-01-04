@@ -3,34 +3,25 @@
 Determine whether an integer is a palindrome. Do this without extra space.
 '''
 
-'''
-9-line accepted Java code, without the need of handling overflow
-public boolean isPalindrome(int x) {
-    if (x<0 || (x!=0 && x%10==0)) return false;
-    int rev = 0;
-    while (x>rev){
-    	rev = rev*10 + x%10;
-    	x = x/10;
-    }
-    return (x==rev || x==rev/10);
-}
+class Solution(object):
+    def isPalindrome(self, x):
+        """
+        :type x: int
+        :rtype: bool
+        """
 
-public boolean isPalindrome(int x) {
+        # 192ms 96.99%
+        # extra space usually means O(n) extra space.
+        # No extra space means O(1) extra space
+        # 1. negative int and ten's multiples are not palindrome
+        if x<0 or (x!=0 and x%10==0):
+            return False
 
-    if (x < 0) return false;
+        # 2. reverse the second half until the second half >= first half
+        rev = 0
+        while x > rev:
+            rev = rev*10 + x%10
+            x = x/10
 
-    int p = x;
-    int q = 0;
-
-    while (p >= 10){
-        q *=10;
-        q += p%10;
-        p /=10;
-    }
-
-    return q == x / 10 && p == x % 10;
-}
-// so the reversed version of int is always 1 time short in the factor of 10s .
-
-in case of Int16, check 63556 will finally check if (6553 == 6355 && 6 == 63556%10) so there will have no concerns about the overflow.
-'''
+        # 3. even length(eg:1221): x==rev   odd length(eg:12 321): x==rev/10
+        return x==rev or x==rev/10
