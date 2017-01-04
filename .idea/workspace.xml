@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60cfeed4-5be9-4ff6-af97-f689531f56bc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/integer/9_Palindrome Number.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/integer/9_Palindrome Number.py" afterPath="$PROJECT_DIR$/integer/9_Palindrome Number.py" />
     </list>
     <ignored path="Leetcode_python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -67,8 +67,8 @@
       <file leaf-file-name="9_Palindrome Number.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/integer/9_Palindrome Number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5580205">
-              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.8737201">
+              <caret line="34" column="134" selection-start-line="34" selection-start-column="134" selection-end-line="34" selection-end-column="134" />
               <folding />
             </state>
           </provider>
@@ -784,8 +784,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/integer/9_Palindrome Number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5580205">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.8737201">
+          <caret line="34" column="134" selection-start-line="34" selection-start-column="134" selection-end-line="34" selection-end-column="134" />
           <folding />
         </state>
       </provider>
