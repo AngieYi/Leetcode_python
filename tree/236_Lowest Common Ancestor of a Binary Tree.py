@@ -39,12 +39,12 @@ class Solution(object):
          If neither are in that subtree, the result is null/None/nil.
         '''
 
-        '''
+
         # 239 ms
         if root in (None, p, q): return root
         left, right = (self.lowestCommonAncestor(kid, p, q) for kid in (root.left, root.right))
         return root if left and right else left or right
-        '''
+        
 
         # 139 ms
         answer = []
