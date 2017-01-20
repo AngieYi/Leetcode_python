@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60cfeed4-5be9-4ff6-af97-f689531f56bc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon/Reverse Linkedlist in giving size.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon/ReversedLinkedlistgivingsize.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon/208_Implement Trie (Prefix Tree).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon/Boundary_Traversal_of_binary_tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon/CloneBinaryTree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon/Left View of a Binary Tree.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/amazon/Reverse Linkedlist in giving size.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/amazon/ReversedLinkedlistgivingsize.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Leetcode_python.iws" />
@@ -25,31 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Reverse Linkedlist in giving size.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/amazon/Reverse Linkedlist in giving size.py">
+      <file leaf-file-name="42. Trapping Rain Water.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/amazon/42. Trapping Rain Water.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7435009">
-              <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReversedLinkedlistgivingsize.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/amazon/ReversedLinkedlistgivingsize.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="206_Reverse Linked List.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/amazon/206_Reverse Linked List.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.1468254">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -70,12 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/27_RemoveElement.py" />
-        <option value="$PROJECT_DIR$/283_MoveZeros.py" />
-        <option value="$PROJECT_DIR$/404_Sum of Left Leaves.py" />
-        <option value="$PROJECT_DIR$/350. Intersection of Two Arrays II.py" />
-        <option value="$PROJECT_DIR$/203_Remove Linked List Elements.py" />
-        <option value="$PROJECT_DIR$/237_Delete Node in a Linked List.py" />
         <option value="$PROJECT_DIR$/387_First Unique Character in a String.py" />
         <option value="$PROJECT_DIR$/100_Same Tree.py" />
         <option value="$PROJECT_DIR$/104_MaxDepthofBinaryTree.py" />
@@ -121,6 +99,12 @@
         <option value="$PROJECT_DIR$/amazon/206_Reverse Linked List.py" />
         <option value="$PROJECT_DIR$/amazon/ReversedLinkedlistgivingsize.py" />
         <option value="$PROJECT_DIR$/amazon/Reverse Linkedlist in giving size.py" />
+        <option value="$PROJECT_DIR$/amazon/Boundary_Traversal_of_binary_tree.py" />
+        <option value="$PROJECT_DIR$/amazon/CloneBinaryTree.py" />
+        <option value="$PROJECT_DIR$/amazon/Left View of a Binary Tree.py" />
+        <option value="$PROJECT_DIR$/amazon/trappingrainwater.py" />
+        <option value="$PROJECT_DIR$/amazon/208_Implement Trie (Prefix Tree).py" />
+        <option value="$PROJECT_DIR$/amazon/42. Trapping Rain Water.py" />
       </list>
     </option>
   </component>
@@ -204,58 +188,7 @@
       <recent name="Z:\Leetcode_python\array" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Reverse Linkedlist in giving size">
-    <configuration default="false" name="125_Valid Palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/string" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode_python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string/125_Valid Palindrome.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="438_Find All Anagrams in a String" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/string" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode_python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string/438_Find All Anagrams in a String.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Shortest path in a Binary Maze" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graph" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode_python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graph/Shortest path in a Binary Maze.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.42. Trapping Rain Water">
     <configuration default="false" name="Reverse Linkedlist in giving size" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -286,6 +219,57 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode_python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon/ReversedLinkedlistgivingsize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Boundary_Traversal_of_binary_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon/Boundary_Traversal_of_binary_tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Left View of a Binary Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon/Left View of a Binary Tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="42. Trapping Rain Water" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon/42. Trapping Rain Water.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -413,19 +397,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.125_Valid Palindrome" />
-      <item index="1" class="java.lang.String" itemvalue="Python.438_Find All Anagrams in a String" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Shortest path in a Binary Maze" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Reverse Linkedlist in giving size" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ReversedLinkedlistgivingsize" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Reverse Linkedlist in giving size" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ReversedLinkedlistgivingsize" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Boundary_Traversal_of_binary_tree" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Left View of a Binary Tree" />
+      <item index="4" class="java.lang.String" itemvalue="Python.42. Trapping Rain Water" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Reverse Linkedlist in giving size" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ReversedLinkedlistgivingsize" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Shortest path in a Binary Maze" />
-        <item index="3" class="java.lang.String" itemvalue="Python.438_Find All Anagrams in a String" />
-        <item index="4" class="java.lang.String" itemvalue="Python.125_Valid Palindrome" />
+        <item index="0" class="java.lang.String" itemvalue="Python.42. Trapping Rain Water" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Left View of a Binary Tree" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Boundary_Traversal_of_binary_tree" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Reverse Linkedlist in giving size" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ReversedLinkedlistgivingsize" />
       </list>
     </recent_temporary>
   </component>
@@ -446,16 +430,16 @@
     <frame x="-11" y="-11" width="1942" height="1162" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15672824" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13825858" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30905306" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17745303" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34133613" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18058455" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -489,9 +473,19 @@
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/amazon/Reverse Linkedlist in giving size.py</url>
-          <line>60</line>
-          <option name="timeStamp" value="11" />
+          <url>file://$PROJECT_DIR$/amazon/Left View of a Binary Tree.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/amazon/42. Trapping Rain Water.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/amazon/42. Trapping Rain Water.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -501,48 +495,15 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="12" />
+      <option name="time" value="15" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="d" />
-        <watch expression="result" />
-        <watch expression="s" />
-        <watch expression="s[i]" />
-        <watch expression="s[i-np]" />
+        <watch expression="water" />
       </configuration>
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/amazon/Reverse Linkedlist in giving size.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/integer/9_Palindrome Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string/409_Longest Palindrome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string/125_Valid Palindrome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/linkedlist/237_Delete Node in a Linked List.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -848,26 +809,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/225. Implement Stack using Queues.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.04468599">
+          <caret line="1" column="59" selection-start-line="1" selection-start-column="59" selection-end-line="1" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/amazon/206_Reverse Linked List.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.17961165">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/ReversedLinkedlistgivingsize.py">
+    <entry file="file://$PROJECT_DIR$/amazon/208_Implement Trie (Prefix Tree).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.2537723">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/Reverse Linkedlist in giving size.py">
+    <entry file="file://$PROJECT_DIR$/amazon/Boundary_Traversal_of_binary_tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7435009">
-          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.2936508">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/206_Reverse Linkedlist in giving size.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/CloneBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53835976">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/Left View of a Binary Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6150794">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/42. Trapping Rain Water.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1468254">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
           <folding />
         </state>
       </provider>
