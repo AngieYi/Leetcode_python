@@ -52,8 +52,8 @@ class LRUCache(object):
         """
         if key not in self.dic:
             return -1
-        v = self.dic.pop(key)   # pop key
-        self.dic[key] = v       # insert value
+        v = self.dic.pop(key)   # pop key: O(1)
+        self.dic[key] = v       # store value: O(1)
         return v
 
     def put(self, key, value):
@@ -68,7 +68,7 @@ class LRUCache(object):
             if self.remain > 0:               # if self.dic remains space, decrease the space and insert value;
                 self.remain -= 1
             else:
-                self.dic.popitem(last=False)  # last=True: return in LIFO(stack)order; last=False: return in FIFO(queue)order.
+                self.dic.popitem(last=False)  # O(1) last=True: return in LIFO(stack)order; last=False: return in FIFO(queue)order.
         self.dic[key] = value
 
 
@@ -108,7 +108,6 @@ class LRUCache(object):
         self.deque.append(key)
         self.dic[key] = value
     '''
-
 
 cache = LRUCache(2)
 cache.put(1,1)

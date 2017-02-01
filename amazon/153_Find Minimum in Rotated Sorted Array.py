@@ -5,6 +5,7 @@ Suppose an array sorted in ascending order is rotated at some pivot unknown to y
 Find the minimum element.
 You may assume no duplicate exists in the array.
 '''
+
 class Solution(object):
     def findMin(self, nums):
         """

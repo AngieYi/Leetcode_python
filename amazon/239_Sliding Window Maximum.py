@@ -12,7 +12,9 @@ Window position                Max
  1  3  -1  -3 [5  3  6] 7       6
  1  3  -1  -3  5 [3  6  7]      7
 Therefore, return the max sliding window as [3,3,5,5,6,7].
+'''
 
+'''
 Keep indexes of good candidates in deque d.
 The indexes in d are from the current window, they're increasing, and their corresponding nums are decreasing.
 Then the first deque element is the index of the largest window value.
@@ -23,6 +25,7 @@ Append the current index.
 Pop (from the front) the index i - k, if it's still in the deque (it falls out of the window).
 If our window has reached size k, append the current window maximum to the output.
 '''
+
 import collections
 
 class Solution(object):

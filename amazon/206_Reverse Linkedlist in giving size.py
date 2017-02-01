@@ -9,7 +9,6 @@ Output:  3->2->1->6->5->4->8->7->NULL.
 Inputs:   1->2->3->4->5->6->7->8->NULL and k = 5
 Output:  5->4->3->2->1->8->7->6->NULL.
 
-
 Algorithm: reverse(head, k)
 The difference between Q1: Reverse a Linked List and Q2: Reverse a Linked List in groups of given size
 Q1 is actually the sub-problem of Q2.
