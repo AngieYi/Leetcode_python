@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60cfeed4-5be9-4ff6-af97-f689531f56bc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon/complexitypython.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/amazon/208_clear_Implement Trie (Prefix Tree).py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amazon/146_LRU Cache.py" afterPath="$PROJECT_DIR$/amazon/146_LRU Cache.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amazon/153_Find Minimum in Rotated Sorted Array.py" afterPath="$PROJECT_DIR$/amazon/153_Find Minimum in Rotated Sorted Array.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amazon/206_Reverse Linkedlist in giving size.py" afterPath="$PROJECT_DIR$/amazon/206_Reverse Linkedlist in giving size.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amazon/225_Implement Stack using Queues.py" afterPath="$PROJECT_DIR$/amazon/225_Implement Stack using Queues.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amazon/230_Kth Smallest Element in a BST.py" afterPath="$PROJECT_DIR$/amazon/230_Kth Smallest Element in a BST.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amazon/239_Sliding Window Maximum.py" afterPath="$PROJECT_DIR$/amazon/239_Sliding Window Maximum.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amazon/378_Kth Smallest Element in a Sorted Matrix.py" afterPath="$PROJECT_DIR$/amazon/378_Kth Smallest Element in a Sorted Matrix.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amazon/42_Trapping Rain Water.py" afterPath="$PROJECT_DIR$/amazon/42_Trapping Rain Water.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amazon/70_Climbing Stairs.py" afterPath="$PROJECT_DIR$/amazon/70_Climbing Stairs.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/amazon/Left View of a Binary Tree.py" afterPath="$PROJECT_DIR$/amazon/Left View of a Binary Tree.py" />
     </list>
     <ignored path="Leetcode_python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,11 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="206_Reverse Linked List.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/amazon/206_Reverse Linked List.py">
+      <file leaf-file-name="230_Kth Smallest Element in a BST.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/amazon/230_Kth Smallest Element in a BST.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.22867738">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="239_Sliding Window Maximum.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/amazon/239_Sliding Window Maximum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.3720642">
+              <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -59,7 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/389_findTheDifference.py" />
         <option value="$PROJECT_DIR$/412_fizzbuzz.py" />
         <option value="$PROJECT_DIR$/448_FindNumsDisappeared.py" />
         <option value="$PROJECT_DIR$/453_Min Moves to Equal Array Elements.py" />
@@ -103,13 +104,14 @@
         <option value="$PROJECT_DIR$/amazon/70_Climbing Stairs.py" />
         <option value="$PROJECT_DIR$/amazon/153_Find Minimum in Rotated Sorted Array.py" />
         <option value="$PROJECT_DIR$/amazon/206_Reverse Linkedlist in giving size.py" />
-        <option value="$PROJECT_DIR$/amazon/225_Implement Stack using Queues.py" />
-        <option value="$PROJECT_DIR$/amazon/230_Kth Smallest Element in a BST.py" />
         <option value="$PROJECT_DIR$/amazon/239_Sliding Window Maximum.py" />
         <option value="$PROJECT_DIR$/amazon/378_Kth Smallest Element in a Sorted Matrix.py" />
         <option value="$PROJECT_DIR$/amazon/Left View of a Binary Tree.py" />
         <option value="$PROJECT_DIR$/amazon/146_LRU Cache.py" />
         <option value="$PROJECT_DIR$/amazon/42_Trapping Rain Water.py" />
+        <option value="$PROJECT_DIR$/amazon/208_clear_Implement Trie (Prefix Tree).py" />
+        <option value="$PROJECT_DIR$/amazon/225_Implement Stack using Queues.py" />
+        <option value="$PROJECT_DIR$/amazon/230_Kth Smallest Element in a BST.py" />
       </list>
     </option>
   </component>
@@ -438,7 +440,7 @@
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23641162" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20263852" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -554,13 +556,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/array/169_Majority Element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/string/171_Excel Sheet Column Number.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -789,44 +784,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/206_Reverse Linkedlist in giving size.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/208_2_Implement Trie (Prefix Tree).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/225_Implement Stack using Queues.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/230_Kth Smallest Element in a BST.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/239_Sliding Window Maximum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tree/226_invertBinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -891,14 +848,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/146_LRU Cache.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.8355994">
-          <caret line="70" column="53" selection-start-line="70" selection-start-column="53" selection-end-line="70" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/amazon/complexitypython.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.52380955">
@@ -925,8 +874,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/amazon/206_Reverse Linked List.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22867738">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.5488257">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/206_Reverse Linkedlist in giving size.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.59456116">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/225_Implement Stack using Queues.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0976514">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/208_2_Implement Trie (Prefix Tree).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6860321">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/146_LRU Cache.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.00618047">
+          <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/208_clear_Implement Trie (Prefix Tree).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1433868">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/230_Kth Smallest Element in a BST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/239_Sliding Window Maximum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3720642">
+          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
           <folding />
         </state>
       </provider>

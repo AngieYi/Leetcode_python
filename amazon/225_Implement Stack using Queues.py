@@ -36,7 +36,7 @@ class Stack(object):
         :rtype: nothing
         """
         self.queue.append(x)
-        for _ in xrange(len(self.queue)-1):
+        for _ in xrange(len(self.queue)-1): # @@ should not use while loop here
             self.queue.append(self.queue.popleft())
 
 
