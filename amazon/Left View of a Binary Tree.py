@@ -10,6 +10,7 @@ Left view of following tree is 12, 10, 25.
 The left view contains all nodes that are first nodes in their levels.
 
 A simple solution is to do level order traversal and print the first node in every level.
+
 The problem can also be solved using simple recursive traversal.
 We can keep track of level of a node by passing a parameter to all recursive calls.
 The idea is to keep track of maximum level also.
@@ -25,6 +26,7 @@ class Node:
         self.left = None
         self.right = None
 
+
 # Recursive function print left view of a binary tree
 def leftViewUtil(root, level, max_level):
     if root is None:                                # Base Case
@@ -36,6 +38,7 @@ def leftViewUtil(root, level, max_level):
 
     leftViewUtil(root.left, level+1, max_level)     # traverse the left subtree before right subtree
     leftViewUtil(root.right, level+1, max_level)
+
 
 def leftView(root):
     max_level = [0]

@@ -5,9 +5,11 @@ This is case sensitive, for example "Aa" is not considered a palindrome here.
 
 Note:
 Assume the length of given string will not exceed 1,010.
+
 Example:
 Input:
 "abccccdd"
+
 Output:
 7
 
@@ -21,7 +23,6 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-
         # 48ms
         length = 0
         tag = False

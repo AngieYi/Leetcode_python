@@ -21,7 +21,6 @@ class Solution(object):
         :rtype: str
         """
 
-
         '''
         A   1     AA    26+ 1     BA  2×26+ 1     ...     ZA  26×26+ 1     AAA  1×26²+1×26+ 1
         B   2     AB    26+ 2     BB  2×26+ 2     ...     ZB  26×26+ 2     AAB  1×26²+1×26+ 2
@@ -31,10 +30,8 @@ class Solution(object):
         Z  26     AZ    26+26     BZ  2×26+26     ...     ZZ  26×26+26     AAZ  1×26²+1×26+26
         '''
 
-
-
         # 39 ms
-        # recursively set the charaters from right to left
+        # recursively set the characters from right to left
         if n == 0:
             return ""
         else:

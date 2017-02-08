@@ -74,6 +74,7 @@ def printBoundary(root):
 root = Node(20)
 root.left = Node(8)
 root.left.left = Node(4)
+root.left.left.right = Node(5)
 root.left.right = Node(12)
 root.left.right.left = Node(10)
 root.left.right.right = Node(14)

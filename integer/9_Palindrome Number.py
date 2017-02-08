@@ -19,7 +19,7 @@ class Solution(object):
 
         # 2. reverse the second half until the second half >= first half
         rev = 0
-        while x > rev:
+        while rev < x :
             rev = rev*10 + x%10
             x = x/10
 
