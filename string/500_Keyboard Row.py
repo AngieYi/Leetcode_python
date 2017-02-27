@@ -24,9 +24,13 @@ class Solution(object):
         for w in words:
             x = set(w.lower())
 
-            # 42ms 59.3%
-            if not x-a or not x-b or not x-c:
+            # 39ms, 77.06%
+            if x<=a or x<=b or x<=c:
                 answer.append(w)
+
+            # 42ms 59.3%
+            # if not x-a or not x-b or not x-c:
+            #     answer.append(w)
 
             # 55ms 20.5%
             # if a&x == x:
@@ -38,12 +42,14 @@ class Solution(object):
 
         return answer
 
+
+
         # using regular expression
         '''
         # 49ms 32.77%
         return filter(re.compile('(?i)([qwertyuiop]*|[asdfghjkl]*|[zxcvbnm]*)$').match, words)
 
-        # 49ms 32.77%
+        # 32.77%
         pattern = "^[qwertyuiop]*$|[asdfghjkl]*$|[zxcvbnm]*$"
         ans = []
         for w in words:
