@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60cfeed4-5be9-4ff6-af97-f689531f56bc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bit/190_Reverse Bits.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bit/201_Bitwise AND of Numbers Range.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bit/338_Counting Bits.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bit/485_Max Consecutive Ones.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bit/190_Reverse Bits.py" afterPath="$PROJECT_DIR$/bit/190_Reverse Bits.py" />
     </list>
     <ignored path="Leetcode_python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,11 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="190_Reverse Bits.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bit/190_Reverse Bits.py">
+      <file leaf-file-name="485_Max Consecutive Ones.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bit/485_Max Consecutive Ones.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5953125">
-              <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.17070358">
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -49,9 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/integer/12_Integer to Roman.py" />
-        <option value="$PROJECT_DIR$/linkedlist/206_Reverse Linked List.py" />
-        <option value="$PROJECT_DIR$/linkedlist/234_Palindrome Linked List.py" />
         <option value="$PROJECT_DIR$/string/125_Valid Palindrome.py" />
         <option value="$PROJECT_DIR$/graph/Shortest path in a Binary Maze.py" />
         <option value="$PROJECT_DIR$/string/20_Valid Parentheses.py" />
@@ -100,6 +100,9 @@
         <option value="$PROJECT_DIR$/array/496_Next Greater Element I.py" />
         <option value="$PROJECT_DIR$/array/503_Next Greater Element II.py" />
         <option value="$PROJECT_DIR$/bit/190_Reverse Bits.py" />
+        <option value="$PROJECT_DIR$/bit/338_Counting Bits.py" />
+        <option value="$PROJECT_DIR$/bit/201_Bitwise AND of Numbers Range.py" />
+        <option value="$PROJECT_DIR$/bit/485_Max Consecutive Ones.py" />
       </list>
     </option>
   </component>
@@ -134,7 +137,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -164,40 +166,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="string" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Leetcode_python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Leetcode_python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="bit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Leetcode_python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Leetcode_python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="array" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -214,58 +189,7 @@
       <recent name="Z:\Leetcode_python\array" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.190_Reverse Bits">
-    <configuration default="false" name="Left View of a Binary Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode_python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon/Left View of a Binary Tree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="231_Power of Two" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bit" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode_python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bit/231_Power of Two.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="496_Next Greater Element I" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/array" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode_python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/array/496_Next Greater Element I.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.485_Max Consecutive Ones">
     <configuration default="false" name="503_Next Greater Element II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -296,6 +220,57 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode_python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bit/190_Reverse Bits.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="338_Counting Bits" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bit/338_Counting Bits.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="201_Bitwise AND of Numbers Range" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bit/201_Bitwise AND of Numbers Range.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="485_Max Consecutive Ones" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bit/485_Max Consecutive Ones.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -423,19 +398,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Left View of a Binary Tree" />
-      <item index="1" class="java.lang.String" itemvalue="Python.231_Power of Two" />
-      <item index="2" class="java.lang.String" itemvalue="Python.496_Next Greater Element I" />
-      <item index="3" class="java.lang.String" itemvalue="Python.503_Next Greater Element II" />
-      <item index="4" class="java.lang.String" itemvalue="Python.190_Reverse Bits" />
+      <item index="0" class="java.lang.String" itemvalue="Python.503_Next Greater Element II" />
+      <item index="1" class="java.lang.String" itemvalue="Python.190_Reverse Bits" />
+      <item index="2" class="java.lang.String" itemvalue="Python.338_Counting Bits" />
+      <item index="3" class="java.lang.String" itemvalue="Python.201_Bitwise AND of Numbers Range" />
+      <item index="4" class="java.lang.String" itemvalue="Python.485_Max Consecutive Ones" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.190_Reverse Bits" />
-        <item index="1" class="java.lang.String" itemvalue="Python.503_Next Greater Element II" />
-        <item index="2" class="java.lang.String" itemvalue="Python.496_Next Greater Element I" />
-        <item index="3" class="java.lang.String" itemvalue="Python.231_Power of Two" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Left View of a Binary Tree" />
+        <item index="0" class="java.lang.String" itemvalue="Python.485_Max Consecutive Ones" />
+        <item index="1" class="java.lang.String" itemvalue="Python.201_Bitwise AND of Numbers Range" />
+        <item index="2" class="java.lang.String" itemvalue="Python.338_Counting Bits" />
+        <item index="3" class="java.lang.String" itemvalue="Python.190_Reverse Bits" />
+        <item index="4" class="java.lang.String" itemvalue="Python.503_Next Greater Element II" />
       </list>
     </recent_temporary>
   </component>
@@ -456,16 +431,16 @@
     <frame x="-11" y="-11" width="1942" height="1162" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15461741" sideWeight="0.7760968" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08654354" sideWeight="0.7760968" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30167013" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20354906" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19313984" sideWeight="0.22390318" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20876826" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.064718165" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -614,8 +589,28 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
           <url>file://$PROJECT_DIR$/bit/190_Reverse Bits.py</url>
-          <line>39</line>
+          <line>40</line>
           <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/bit/338_Counting Bits.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/bit/201_Bitwise AND of Numbers Range.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/bit/485_Max Consecutive Ones.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/bit/485_Max Consecutive Ones.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="48" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -625,38 +620,15 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="44" />
+      <option name="time" value="49" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="n" />
-        <watch expression="ans" />
+        <watch expression="str_num" />
       </configuration>
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/amazon/146_LRU Cache.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.00618047">
-          <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/208_clear_Implement Trie (Prefix Tree).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1433868">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/230_Kth Smallest Element in a BST.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09147095">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/amazon/378_Kth Smallest Element in a Sorted Matrix.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.05666156">
@@ -969,7 +941,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.24034335">
           <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -977,7 +948,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.03218884">
           <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -999,8 +969,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bit/190_Reverse Bits.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5953125">
-          <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.8734375">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bit/338_Counting Bits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7057221">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bit/201_Bitwise AND of Numbers Range.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15122616">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bit/485_Max Consecutive Ones.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17070358">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
           <folding />
         </state>
       </provider>

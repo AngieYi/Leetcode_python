@@ -35,6 +35,7 @@ class Solution:
         return int("0b"+rebitn,2)       # change bit into integer
         '''
 
-n = 43261596
+# n = 43261596
+n = 2
 s = Solution()
 print s.reverseBits(n)
