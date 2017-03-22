@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60cfeed4-5be9-4ff6-af97-f689531f56bc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/array/88_Merge Sorted Array.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/integer/172_Factorial Trailing Zeroes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/string/38_Count and Say.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/array/14_Longest Common Prefix.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/array/155_Min Stack.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/array/189_Rotate Array.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/array/238_Product of Array Except Self.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/array/347_M_Top K Frequent Elements.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/integer/204_Count Primes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/integer/69_Sqrt(x).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/integer/7_Reverse Integer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linkedlist/160_Intersection of Two Linked Lists.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/string/28_Implement strStr().py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/array/455_Assign Cookies.py" afterPath="$PROJECT_DIR$/array/455_Assign Cookies.py" />
     </list>
     <ignored path="Leetcode_python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,11 +33,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="88_Merge Sorted Array.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/array/88_Merge Sorted Array.py">
+      <file leaf-file-name="347_M_Top K Frequent Elements.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/array/347_M_Top K Frequent Elements.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3186969">
-              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+            <state vertical-scroll-proportion="1.2414355">
+              <caret line="24" column="22" selection-start-line="11" selection-start-column="0" selection-end-line="24" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -52,16 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/amazon/70_Climbing Stairs.py" />
-        <option value="$PROJECT_DIR$/amazon/153_Find Minimum in Rotated Sorted Array.py" />
-        <option value="$PROJECT_DIR$/amazon/206_Reverse Linkedlist in giving size.py" />
-        <option value="$PROJECT_DIR$/amazon/378_Kth Smallest Element in a Sorted Matrix.py" />
-        <option value="$PROJECT_DIR$/amazon/146_LRU Cache.py" />
-        <option value="$PROJECT_DIR$/amazon/42_Trapping Rain Water.py" />
-        <option value="$PROJECT_DIR$/amazon/208_clear_Implement Trie (Prefix Tree).py" />
-        <option value="$PROJECT_DIR$/amazon/225_Implement Stack using Queues.py" />
-        <option value="$PROJECT_DIR$/amazon/230_Kth Smallest Element in a BST.py" />
-        <option value="$PROJECT_DIR$/amazon/239_Sliding Window Maximum.py" />
         <option value="$PROJECT_DIR$/amazon/Boundary_Traversal_of_binary_tree.py" />
         <option value="$PROJECT_DIR$/amazon/Left View of a Binary Tree.py" />
         <option value="$PROJECT_DIR$/integer/9_Palindrome Number.py" />
@@ -103,6 +99,16 @@
         <option value="$PROJECT_DIR$/integer/172_Factorial Trailing Zeroes.py" />
         <option value="$PROJECT_DIR$/string/38_Count and Say.py" />
         <option value="$PROJECT_DIR$/array/88_Merge Sorted Array.py" />
+        <option value="$PROJECT_DIR$/array/14_Longest Common Prefix.py" />
+        <option value="$PROJECT_DIR$/linkedlist/160_Intersection of Two Linked Lists.py" />
+        <option value="$PROJECT_DIR$/string/28_Implement strStr().py" />
+        <option value="$PROJECT_DIR$/integer/69_Sqrt(x).py" />
+        <option value="$PROJECT_DIR$/array/155_Min Stack.py" />
+        <option value="$PROJECT_DIR$/integer/204_Count Primes.py" />
+        <option value="$PROJECT_DIR$/integer/7_Reverse Integer.py" />
+        <option value="$PROJECT_DIR$/array/189_Rotate Array.py" />
+        <option value="$PROJECT_DIR$/array/238_Product of Array Except Self.py" />
+        <option value="$PROJECT_DIR$/array/347_M_Top K Frequent Elements.py" />
       </list>
     </option>
   </component>
@@ -190,59 +196,8 @@
       <recent name="Z:\Leetcode_python\OA_amazon" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.38_Count and Say">
-    <configuration default="false" name="309_Best Time to Buy and Sell Stock with Cooldown" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stock" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode_python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stock/309_Best Time to Buy and Sell Stock with Cooldown.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="66_Plus One" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/integer" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode_python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/integer/66_Plus One.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="118_Pascal's Triangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/integer" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode_python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/integer/118_Pascal's Triangle.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="26_Remove Duplicates from Sorted Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.347_M_Top K Frequent Elements">
+    <configuration default="false" name="155_Min Stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -254,24 +209,75 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode_python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/array/26_Remove Duplicates from Sorted Array.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/array/155_Min Stack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="38_Count and Say" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="204_Count Primes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/string" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/integer" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode_python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string/38_Count and Say.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/integer/204_Count Primes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="7_Reverse Integer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/integer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/integer/7_Reverse Integer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="238_Product of Array Except Self" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/array/238_Product of Array Except Self.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="347_M_Top K Frequent Elements" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/array/347_M_Top K Frequent Elements.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -399,19 +405,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.309_Best Time to Buy and Sell Stock with Cooldown" />
-      <item index="1" class="java.lang.String" itemvalue="Python.66_Plus One" />
-      <item index="2" class="java.lang.String" itemvalue="Python.118_Pascal's Triangle" />
-      <item index="3" class="java.lang.String" itemvalue="Python.26_Remove Duplicates from Sorted Array" />
-      <item index="4" class="java.lang.String" itemvalue="Python.38_Count and Say" />
+      <item index="0" class="java.lang.String" itemvalue="Python.155_Min Stack" />
+      <item index="1" class="java.lang.String" itemvalue="Python.204_Count Primes" />
+      <item index="2" class="java.lang.String" itemvalue="Python.7_Reverse Integer" />
+      <item index="3" class="java.lang.String" itemvalue="Python.238_Product of Array Except Self" />
+      <item index="4" class="java.lang.String" itemvalue="Python.347_M_Top K Frequent Elements" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.38_Count and Say" />
-        <item index="1" class="java.lang.String" itemvalue="Python.26_Remove Duplicates from Sorted Array" />
-        <item index="2" class="java.lang.String" itemvalue="Python.118_Pascal's Triangle" />
-        <item index="3" class="java.lang.String" itemvalue="Python.66_Plus One" />
-        <item index="4" class="java.lang.String" itemvalue="Python.309_Best Time to Buy and Sell Stock with Cooldown" />
+        <item index="0" class="java.lang.String" itemvalue="Python.347_M_Top K Frequent Elements" />
+        <item index="1" class="java.lang.String" itemvalue="Python.238_Product of Array Except Self" />
+        <item index="2" class="java.lang.String" itemvalue="Python.7_Reverse Integer" />
+        <item index="3" class="java.lang.String" itemvalue="Python.204_Count Primes" />
+        <item index="4" class="java.lang.String" itemvalue="Python.155_Min Stack" />
       </list>
     </recent_temporary>
   </component>
@@ -429,19 +435,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1162" extended-state="6" />
+    <frame x="-11" y="-11" width="1942" height="1162" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16253299" sideWeight="0.7760968" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08284961" sideWeight="0.7760968" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20354906" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19313984" sideWeight="0.22390318" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23277661" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23277661" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -643,6 +649,36 @@
           <line>39</line>
           <option name="timeStamp" value="56" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/array/14_Longest Common Prefix.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/integer/204_Count Primes.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/integer/7_Reverse Integer.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/array/238_Product of Array Except Self.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/array/238_Product of Array Except Self.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/array/347_M_Top K Frequent Elements.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -651,91 +687,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="57" />
+      <option name="time" value="67" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tree/226_invertBinaryTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/236_Lowest Common Ancestor of a Binary Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="45" column="56" selection-start-line="45" selection-start-column="56" selection-end-line="45" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/404_Sum of Left Leaves.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graph/Shortest path in a Binary Maze.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bit/231_Power of Two.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.010695187">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bit/326_Power of Three.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43669528">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bit/342_Power of Four.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3251073">
-          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string/500_Keyboard Row.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24034335">
-          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bit/476_Number Complement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.03218884">
-          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bit/190_Reverse Bits.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8734375">
-          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bit/338_Counting Bits.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7057221">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bit/201_Bitwise AND of Numbers Range.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.15122616">
@@ -854,13 +810,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/array/169_Majority Element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/array/217_Contains Duplicates.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -886,13 +835,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/283_MoveZeros.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1031,6 +973,110 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3186969">
           <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linkedlist/160_Intersection of Two Linked Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.79012346">
+          <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integer/69_Sqrt(x).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37191358">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/283_MoveZeros.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string/28_Implement strStr().py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/14_Longest Common Prefix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/169_Majority Element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.0540123">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/155_Min Stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17556347">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integer/204_Count Primes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44518715">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integer/7_Reverse Integer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6094527">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/189_Rotate Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7823383">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/238_Product of Array Except Self.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/ArcGIS10.3/Lib/collections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33286119">
+          <caret line="451" column="0" selection-start-line="451" selection-start-column="0" selection-end-line="451" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/347_M_Top K Frequent Elements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2414355">
+          <caret line="24" column="22" selection-start-line="11" selection-start-column="0" selection-end-line="24" selection-end-column="22" />
           <folding />
         </state>
       </provider>
