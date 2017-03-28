@@ -14,6 +14,19 @@ def getSum(self, a, b):
     return a if a <= MAX_INT else ~((a % MIN_INT) ^ MAX_INT)
 
 '''
+int getSum(int a, int b) {
+    int sum = 0;
+    while(b!=0)
+    {
+            sum = a ^ b;        //calculate sum of a and b without thinking the carry
+            b = (a & b) << 1;   //calculate the carry
+            a = sum;            //add sum(without carry) and carry
+    }
+    return sum;
+
+}
+'''
+'''
 What's hexadecimal ?
 As each hexadecimal digit represents four binary digits (bits),
 it allows a human-friendly representation of binary-coded values.

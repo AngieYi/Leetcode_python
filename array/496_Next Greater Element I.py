@@ -31,6 +31,21 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
+        # 55ms, 90+%
+        d = {}      # dict key is element,value is the next bigger element
+        stk = []    # stack save all the element into it
+        ans = []    # array save answer
+
+        for x in nums:
+            while len(stk) and stk[-1] < x:   # As long as there's num in stack less than x
+                d[stk.pop()] = x              # {num:x} will be record in dict
+            stk.append(x)                     # save x into stack
+
+        for y in findNums:
+            ans.append(d.get(y, -1))          # if in dict,get value, otherwise get -1
+
+        return ans
+
         '''
         # 99ms, 52.37%
         ans = []
@@ -48,20 +63,7 @@ class Solution(object):
         return ans
        '''
 
-        # 55ms, 90+%
-        d = {}      # dict key is element,value is the next bigger element
-        stk = []    # stack save all the element into it
-        ans = []    # array save answer
 
-        for x in nums:
-            while len(stk) and stk[-1] < x:   # As long as there's num in stack less than x
-                d[stk.pop()] = x              # {num:x} will be record in dict
-            stk.append(x)                     # save x into stack
-
-        for y in findNums:
-            ans.append(d.get(y, -1))          # if in dict,get value, otherwise get -1
-
-        return ans
 
 # findNums = [3,1,5,7,9,2,6]
 # nums = [1,2,3,5,6,7,9,11]

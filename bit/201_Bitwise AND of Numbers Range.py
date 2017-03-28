@@ -9,7 +9,7 @@ class Solution(object):
         # 56.11%
         if m == n:
             return m
-        zeros = len(bin(m^n)) - 2         # find highest diff bit position (XOR is 1),lowers are all zeros after AND
+        zeros = len(bin(m^n)) - 2         # find highest diff bit position (XOR is 1),lowers are all zeros after AND,-2(ignore '0b')
         return (n >> zeros) * (2**zeros)  # (get all high identical bit) * (all zero bit)
 
 s = Solution()
